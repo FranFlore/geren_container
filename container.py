@@ -60,3 +60,5 @@ if __name__ == "__main__":
             break
         else:
             print("Opção inválida! Tente novamente.")
+            
+print('Fim da atividade avaliava 1. Controle de versão com Git')
